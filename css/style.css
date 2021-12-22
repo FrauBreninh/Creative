@@ -100,3 +100,96 @@ color: #181818;
 text-decoration: none;
 margin-right: 20px;
     }
+    .about{
+        background-color: #FFFFFF;
+    }
+    h2{
+        font-family: 20 Kopeek Book;
+        font-size: 38px;
+        line-height: 42px;
+        color: #181818; 
+        margin-top: 70px;
+        margin-bottom: 15px;
+}
+.about p{
+    font-family: 20 Kopeek;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #181818;
+    margin-bottom: 30px;
+    margin-left: 30px;
+      
+}
+.flex-about{
+    display: flex;
+    justify-content: space-between;
+}
+.text-block h2{
+    font-family: 20 Kopeek Book;
+font-size: 50px;
+line-height: 55px;
+color: #181818;
+margin-top: 150px;
+}
+.flex-elements{
+    display: flex;
+    justify-content: space-around;
+}
+.number{
+    font-family: 20 Kopeek Book;
+font-size: 55px;
+line-height: 55px;
+color: #181818;
+margin-top: 40px;
+}
+.text{
+    font-family: 20 Kopeek;
+font-size: 18px;
+line-height: 25px;
+color: #181818;
+position: relative;
+left: 35px;
+top: -28px;
+}
+.special-text{
+    font-family: 20 Kopeek;
+font-size: 15px;
+line-height: 19px;
+color: #181818;
+position: relative;
+left: 36px;
+}
+.cost h2{
+    font-family: 20 Kopeek Book;
+font-size: 38px;
+line-height: 42px;
+color: #181818;
+margin-top: 120px;
+margin-bottom: 15px;
+margin-left: 476px;
+}
+.flex-cost{
+    display: flex;
+    align-items: flex-start;
+}
+.flex-cost p{
+    font-family: 20 Kopeek;
+font-size: 18px;
+line-height: 25px;
+margin-right: 85px;
+margin-bottom: 25px;
+}
+.p-flex-cost{
+    order: -1;
+}
+.background-p{
+    background: #2B59C3;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: 20 Kopeek;
+    padding: 10px;
+    margin-left: -13px;
+   
+}
